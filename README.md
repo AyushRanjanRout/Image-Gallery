@@ -1,6 +1,8 @@
 # Image-Gallery
 A responsive Image gallery 
 
+Demo :- ayushranjanrout.github.io/image-gallery
+
 
 
 
